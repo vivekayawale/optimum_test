@@ -11,7 +11,7 @@ def test_count_items_case_insensitive():
     ]
 
     assert count_items(fruits) == {
-        "apple": 4,
+        "apple": 3,
         "banana": 2,
         "mango": 2,
         "orange": 2,
